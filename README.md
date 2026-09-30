@@ -49,6 +49,17 @@ O projeto é uma aplicação desktop desenvolvida para ambiente Windows utilizan
 
 Para executar o sistema, é necessário configurar o ambiente de desenvolvimento, o .NET Framework e o SQL Server.
 
+
+## 🔐 Acesso para teste
+
+Para testar a aplicação, utilize um dos usuários de demonstração cadastrados no banco de dados.
+
+**Usuário:** `GUILHERME.JESUS`
+**Senha:** `senac@123`
+
+> Os dados acima são credenciais fictícias criadas exclusivamente para demonstração do projeto.
+
+
 ## 🎓 Contexto
 
 Este projeto faz parte da minha trajetória de formação na área de Tecnologia da Informação e representa uma experiência prática com desenvolvimento de aplicações desktop, banco de dados e modelagem de sistemas.
