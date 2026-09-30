@@ -39,10 +39,9 @@ A aplicação utiliza ADO.NET para realizar a comunicação entre o sistema e o 
 
 O projeto possui documentação complementar para utilização do sistema e compreensão da modelagem do banco de dados.
 
-- 📖 [Manual do sistema](./Documentação/documentacao_controle_acesso.pdf)
-- 🖼️ [Modelo Entidade-Relacionamento (MER)](./Documentação/Mer.png)
-- 📊 [Diagrama Entidade-Relacionamento (DER)](./Documentação/DER.xlsx)
-
+- 📖 [Manual do sistema](./Documentacao/documentacao_controle_acesso.pdf)
+- 🖼️ [Modelo Entidade-Relacionamento (MER)](./Documentacao/MER.png)
+- 📊 [Diagrama Entidade-Relacionamento (DER)](./Documentacao/DER.xlsx)
 
 ## 🖥️ Aplicação
 
