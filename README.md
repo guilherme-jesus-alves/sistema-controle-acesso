@@ -37,13 +37,12 @@ A aplicação utiliza ADO.NET para realizar a comunicação entre o sistema e o 
 
 ## 📚 Documentação
 
-O projeto possui documentação complementar, incluindo:
+O projeto possui documentação complementar para utilização do sistema e compreensão da modelagem do banco de dados.
 
-- 📖 Manual de utilização do sistema
-- 🖼️ Modelo Entidade-Relacionamento (MER)
-- 📊 Diagrama Entidade-Relacionamento (DER)
+- 📖 [Manual do sistema](./Documentação/documentacao_controle_acesso.pdf)
+- 🖼️ [Modelo Entidade-Relacionamento (MER)](./Documentação/Mer.png)
+- 📊 [Diagrama Entidade-Relacionamento (DER)](./Documentação/DER.xlsx)
 
-Os arquivos de documentação serão disponibilizados neste repositório.
 
 ## 🖥️ Aplicação
 
